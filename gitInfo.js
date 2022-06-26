@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition = ('It is a free and open-source version control system used to handle small to large projects efficiently')
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition = ('GitHub is a code hosting website for version control and collaboration')
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+let gitInitDefinition = ('git init is a command that creates a new Git repository')
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition = ('git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository')
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +46,7 @@
 */
 
 //CODE HERE
+let gitStatusDefinition = ('It lets you see which changes have been staged, which have not, and which files are not being tracked by Git')
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +58,9 @@
 */
 
 //CODE HERE
+let gitAddDefinition = ('It tells Git that you want to include updates to a particular file in the next commit')
+
+let gitAddCode = ('git add .')
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,6 +72,9 @@
 */
 
 //CODE HERE
+let gitCommitDefinition = ('git commit is an operation which sends the latest changes of the source code to the repository, making these changes part of the head revision of the repository')
+
+let gitCommitCode = ('git commit -m "initial commit"');
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,3 +84,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = ('The git push command is used to upload local repository content to a remote repository')
